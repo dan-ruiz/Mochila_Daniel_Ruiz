@@ -1,0 +1,5 @@
+-IP de mi maquina virtual Direc. inet:192.168.20.41
+
+-MAC direcciónHW 08:00:27:db:62:b1
+
+-Solo se encontro una IP lo que significa que la IP publica y privada son la misma 
